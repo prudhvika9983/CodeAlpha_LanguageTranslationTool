@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 40px;
+}
+
+textarea {
+    width: 300px;
+    height: 100px;
+}
+
+button {
+    padding: 10px;
+    background: #007BFF;
+    color: rgb(192, 128, 128);
+    border: navajowhite;
+}
